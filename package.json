@@ -1,0 +1,11 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "- API : Es una interfaz para que dos ordenadores \"hablen\" entre ellos.\r - Endpoint: Direccion para hacer una peticion\r - protocolo Http: GET - POST - PUT - DELETE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
